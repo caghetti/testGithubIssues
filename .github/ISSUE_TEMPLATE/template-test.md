@@ -1,19 +1,9 @@
 ---
 name: template test
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
-
----
-
-name: Bug Report
 description: File a bug report
 title: "[Bug]: "
 labels: ["bug"]
 projects: ["23.12]
-assignees:
-  - octocat
 body:
   - type: markdown
     attributes:
@@ -71,3 +61,6 @@ body:
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
+
+---
+
