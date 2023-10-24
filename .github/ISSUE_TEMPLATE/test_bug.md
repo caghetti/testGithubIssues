@@ -2,12 +2,12 @@
 name: Bug Report form
 about: File a bug report
 title: "[Bug]: "
-labels: ["bug"]
-projects: ["23.12"]
-assignees:
-  - caghetti
-body:
-  - type: markdown
+labels: bug
+assignees: caghetti
+
+---
+
+- type: markdown
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
@@ -63,4 +63,3 @@ body:
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
----
