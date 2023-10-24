@@ -2,6 +2,7 @@
 
 name: Bug
 about: File a bug report
+description: File a bug report
 body:
   - type: markdown
     attributes:
