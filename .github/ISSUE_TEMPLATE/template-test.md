@@ -1,13 +1,7 @@
 ---
-name: template test
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
 
 name: Bug
-description: File a bug report
+ABOUT: File a bug report
 body:
   - type: markdown
     attributes:
@@ -66,9 +60,9 @@ body:
       description: Which steps do we need to take to reproduce this error?
   - type: textarea
 
----
     id: logs
     attributes:
       label: Relevant log output
       description: If applicable, provide relevant log output. No need for backticks here.
       render: shell
+---
