@@ -1,7 +1,7 @@
 ---
 
 name: Bug
-ABOUT: File a bug report
+about: File a bug report
 body:
   - type: markdown
     attributes:
