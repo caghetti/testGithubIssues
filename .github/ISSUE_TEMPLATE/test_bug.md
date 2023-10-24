@@ -6,7 +6,7 @@ labels: bug
 assignees: caghetti
 
 ---
-
+body:
 - type: markdown
     attributes:
       value: |
