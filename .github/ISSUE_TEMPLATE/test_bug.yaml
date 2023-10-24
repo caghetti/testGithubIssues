@@ -1,6 +1,5 @@
----
 name: Bug Report form
-about: File a bug report
+description: File a bug report
 title: "[Bug]: "
 labels: ["bug"]
 projects: ["23.12"]
@@ -49,4 +48,3 @@ body:
       label: Relevant log output
       description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
       render: shell
----
