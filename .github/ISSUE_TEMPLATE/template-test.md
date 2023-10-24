@@ -3,7 +3,7 @@ name: template test
 description: File a bug report
 title: "[Bug]: "
 labels: ["bug"]
-projects: ["23.12]
+projects: ["23.12"]
 body:
   - type: markdown
     attributes:
