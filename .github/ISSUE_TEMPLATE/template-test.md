@@ -5,7 +5,7 @@ title: ''
 labels: ''
 assignees: ''
 
----
+
 name: Bug
 description: File a bug report
 body:
@@ -65,6 +65,8 @@ body:
       label: Steps to reproduce
       description: Which steps do we need to take to reproduce this error?
   - type: textarea
+
+---
     id: logs
     attributes:
       label: Relevant log output
