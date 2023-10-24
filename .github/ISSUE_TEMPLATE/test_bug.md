@@ -5,7 +5,6 @@ title: "[Bug]: "
 labels: bug
 assignees: caghetti
 
----
 body:
 - type: markdown
     attributes:
@@ -63,3 +62,4 @@ body:
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
+  ---
