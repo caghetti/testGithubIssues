@@ -1,3 +1,11 @@
+---
+name: template test
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
+
+---
 name: Bug
 description: File a bug report
 body:
